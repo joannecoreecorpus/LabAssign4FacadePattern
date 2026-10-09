@@ -17,3 +17,4 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 
  # UML
  
+<img width="1580" height="1228" alt="Blank diagram (2)" src="https://github.com/user-attachments/assets/60b583de-263e-424f-9363-fe62f37a8b91" />
